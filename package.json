@@ -1,0 +1,9 @@
+{
+  "name": "the-farmers-side",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix client run build",
+    "dev": "npm --prefix client run dev",
+    "lint": "npm --prefix client run lint"
+  }
+}
