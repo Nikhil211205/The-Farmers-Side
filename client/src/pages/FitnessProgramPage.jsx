@@ -85,6 +85,10 @@ function FitnessProgramPage() {
           <p>
             Personalized training plans designed to support sustainable progress and long-term wellness.
           </p>
+          <div className="fitness-price-callout" aria-label="Fitness program pricing">
+            <span>Program</span>
+            <strong>Starts from Rs 35,000</strong>
+          </div>
         </div>
       </section>
 

@@ -111,8 +111,8 @@ function ContactPage() {
         <aside className="contact-info card-shell">
           <h3>Contact information</h3>
           <p>Email: hello@thefarmersside.com</p>
-          <p>Phone: +91 98765 43210</p>
-          <p>Address: Placeholder Address, India</p>
+          <p>Phone: +91 9003967445</p>
+          <p>Address: Grove Paddles, 2/124-A, Thottatu Salai East, Puttuvikki Road, Perur, Tamil Nadu - 641010.</p>
           <p>Business hours: Mon-Sat, 9:00 AM - 6:00 PM</p>
           <div className="map-placeholder">Map placeholder</div>
         </aside>

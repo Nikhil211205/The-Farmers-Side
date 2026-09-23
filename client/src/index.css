@@ -754,6 +754,29 @@ p { margin: 0; }
   margin-bottom: 22px;
 }
 .consultation-hero h1, .consultation-hero p { color: var(--white); }
+.fitness-price-callout {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 20px;
+  padding: 14px 18px;
+  border: 1px solid rgba(255,255,255,0.36);
+  border-left: 4px solid #e3a66e;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.12);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+}
+.fitness-price-callout span {
+  color: #f4d4b1;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.fitness-price-callout strong {
+  color: var(--white);
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+}
 .benefits-grid { grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; margin: 24px 0 32px; }
 .benefits-grid div, .story-card, .stat-card { background: var(--white); border: 1px solid var(--border-soft); border-radius: var(--radius-md); padding: 18px; }
 .story-grid { grid-template-columns: repeat(3, minmax(0,1fr)); gap: 18px; }
