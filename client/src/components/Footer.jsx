@@ -67,8 +67,8 @@ function Footer() {
       <div className="container footer-meta">
         <div className="meta-contact">
           <span><Mail size={14} /> support@thefarmersside.com</span>
-          <span><Phone size={14} /> +91 98765 43210</span>
-          <span><MapPin size={14} /> Placeholder Address, India</span>
+          <span><Phone size={14} /> +91 9003967445</span>
+          <span><MapPin size={14} /> Grove Paddles, 2/124-A, Thottatu Salai East, Puttuvikki Road, Perur, Tamil Nadu - 641010.</span>
         </div>
         <p>© 2026 The Farmers Side. All rights reserved.</p>
       </div>
